@@ -13,3 +13,4 @@ Nesse repositório você encontra os *starter files* de um projeto construído c
 - Trabalhar com variáveis CSS
 - Media Queries
 
+VERSÃO FINAL: https://daniellrbm.github.io/html-css/flexbox-responsivo/index-d01.html
